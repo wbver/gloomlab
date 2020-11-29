@@ -1,0 +1,7 @@
+.main-photo {
+    display: grid;
+    place-items: center;
+}
+.main-photo img {
+    width: 80%;
+}
